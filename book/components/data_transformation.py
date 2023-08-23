@@ -1,10 +1,10 @@
 import os, sys
 import pandas as pd
 import pickle
-from src.logger import logging
-from src.exception import CustomException
-from src.config.configuration import AppConfiguration
-from src.utils.util import read_yaml_file
+from book.logger import logging
+from book.exception import CustomException
+from book.config.Configuration import AppConfiguration
+from book.utils.utils import read_yaml_file
 import pickle
 
 
