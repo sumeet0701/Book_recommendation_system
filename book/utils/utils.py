@@ -1,6 +1,6 @@
 import yaml
 import sys
-from src.exception import CustomException
+from book.exception import CustomException
 
 
 
