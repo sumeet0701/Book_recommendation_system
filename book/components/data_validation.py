@@ -3,9 +3,9 @@ import sys
 import ast 
 import pandas as pd
 import pickle
-from src.logger import logging
-from src.config.configuration import AppConfiguration
-from src.exception import CustomException
+from book.logger import logging
+from book.config.Configuration import AppConfiguration
+from book.exception import CustomException
 
 
 
