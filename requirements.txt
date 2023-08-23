@@ -4,4 +4,6 @@ matplotlib
 flask
 pymongo[srv]
 evidently
+streamlit
+scipy
 -e .
